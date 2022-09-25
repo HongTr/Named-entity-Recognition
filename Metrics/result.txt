@@ -1,0 +1,13 @@
+processed 27250 tokens with 3517 phrases; found: 9891 phrases; correct: 40.
+accuracy:   2.29%; (non-O)
+accuracy:  48.06%; precision:   0.40%; recall:   1.14%; FB1:   0.60
+              AGE: precision:   0.00%; recall:   0.00%; FB1:   0.00  368
+             DATE: precision:   0.00%; recall:   0.00%; FB1:   0.00  1294
+           GENDER: precision:   0.00%; recall:   0.00%; FB1:   0.00  22
+              JOB: precision:   0.00%; recall:   0.00%; FB1:   0.00  243
+         LOCATION: precision:   1.25%; recall:   1.69%; FB1:   1.44  1755
+             NAME: precision:   0.00%; recall:   0.00%; FB1:   0.00  31
+     ORGANIZATION: precision:   0.05%; recall:   0.37%; FB1:   0.08  2091
+       PATIENT_ID: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+SYMPTOM_AND_DISEASE: precision:   0.69%; recall:   5.24%; FB1:   1.22  2027
+   TRANSPORTATION: precision:   0.15%; recall:   6.67%; FB1:   0.29  2060
